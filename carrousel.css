@@ -4,7 +4,7 @@ padding: 0;
 }
 .carrousel {
 width: 400px;
-height: 250px;
+height: 200px;
 outline: 3px solid black;
 overflow: hidden;
 margin: 50px auto;
@@ -39,4 +39,13 @@ height: 250px;
 }
 body{
 background-color: darkslategrey;
+}
+h1{
+color: aqua;
+text-shadow: 2px 3px 4px #000080;
+}
+h2{
+color: #000080;
+text-shadow: 2px 3px 4px #089e78;
+
 }
